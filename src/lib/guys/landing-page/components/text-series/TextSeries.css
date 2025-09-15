@@ -1,0 +1,37 @@
+.text-series-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.cave-wall-text {
+    font-family: 'Lilita One', cursive;
+    font-size: 128px;
+    color: transparent;
+    -webkit-text-stroke: 1px black;
+    margin-top: -115px;
+    white-space: nowrap;
+}
+
+.text-1 {
+    margin-top: -50px;
+}
+
+.text-5 {
+    color: black;
+}
+
+.text-9 {
+    margin-top: -80px;
+}
+
+.text-7 {
+    b {
+        color: transparent;
+        background: radial-gradient(circle at bottom left,rgba(251, 63, 101, 1) 25%, rgba(70, 152, 252, 1) 45%, rgba(70, 252, 82, 1) 55%, rgba(252, 185, 70, 1) 65%);-webkit-background-clip: text;
+        background-clip: text;
+    }
+}
+
+b {
+    font-weight: normal;
+}

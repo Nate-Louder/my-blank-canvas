@@ -1,0 +1,31 @@
+.landing-page {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+
+.spiral-guy-container {
+    position: absolute;
+    top: 340px;
+    right: 300px;
+    z-index: 10;
+}
+
+.top-right-crystals-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.bottom-left-crystals-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.text-series-container {
+    position: absolute;
+    bottom: -10px;
+    left: 25px;
+    z-index: 10;
+}
